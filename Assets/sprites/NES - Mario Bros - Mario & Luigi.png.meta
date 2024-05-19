@@ -1,0 +1,2087 @@
+fileFormatVersion: 2
+guid: 32a096370900bee4699f9e09f7d01fcf
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 38
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NES - Mario Bros - Mario & Luigi_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 224
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 4}
+        - {x: 6, y: 3}
+        - {x: 4, y: 3}
+        - {x: 4, y: 0}
+        - {x: 3, y: 0}
+        - {x: 3, y: -1}
+        - {x: 4, y: -1}
+        - {x: 4, y: -2}
+        - {x: 6, y: -2}
+        - {x: 6, y: -3}
+        - {x: 7, y: -3}
+        - {x: 7, y: -4}
+        - {x: 8, y: -4}
+        - {x: 8, y: -6}
+        - {x: 7, y: -6}
+        - {x: 7, y: -7}
+        - {x: 6, y: -7}
+        - {x: 6, y: -6}
+        - {x: 5, y: -6}
+        - {x: 5, y: -4}
+        - {x: 4, y: -4}
+        - {x: 4, y: -8}
+        - {x: 6, y: -8}
+        - {x: 6, y: -11}
+        - {x: 7, y: -11}
+        - {x: 7, y: -12}
+        - {x: 3, y: -12}
+        - {x: 3, y: -10}
+        - {x: 2, y: -10}
+        - {x: 2, y: -9}
+        - {x: -2, y: -9}
+        - {x: -2, y: -10}
+        - {x: -3, y: -10}
+        - {x: -3, y: -12}
+        - {x: -7, y: -12}
+        - {x: -7, y: -11}
+        - {x: -6, y: -11}
+        - {x: -6, y: -8}
+        - {x: -4, y: -8}
+        - {x: -4, y: -4}
+        - {x: -5, y: -4}
+        - {x: -5, y: -6}
+        - {x: -6, y: -6}
+        - {x: -6, y: -7}
+        - {x: -7, y: -7}
+        - {x: -7, y: -6}
+        - {x: -8, y: -6}
+        - {x: -8, y: -4}
+        - {x: -7, y: -4}
+        - {x: -7, y: -3}
+        - {x: -7, y: -2}
+        - {x: -6, y: -2}
+        - {x: -6, y: -1}
+        - {x: -4, y: -1}
+        - {x: -4, y: 1}
+        - {x: -5, y: 1}
+        - {x: -5, y: 2}
+        - {x: -6, y: 2}
+        - {x: -6, y: 3}
+        - {x: -5, y: 3}
+        - {x: -5, y: 5}
+        - {x: -4, y: 4.9478455}
+        - {x: -4, y: 7}
+        - {x: -3, y: 7}
+        - {x: -3, y: 8}
+        - {x: -1, y: 8}
+        - {x: -1, y: 9}
+        - {x: 2, y: 9}
+        - {x: 2, y: 8}
+        - {x: 4, y: 8}
+        - {x: 4, y: 5}
+        - {x: 5, y: 5}
+        - {x: 5, y: 4}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43609401315801a4c8524c3562b2e92a
+      internalID: -1991218627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mario Bros - Mario & Luigi_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 224
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 0}
+        - {x: 6, y: -1}
+        - {x: 7, y: -1}
+        - {x: 7, y: -3}
+        - {x: 6, y: -3}
+        - {x: 6, y: -4}
+        - {x: 4, y: -4}
+        - {x: 4, y: -7}
+        - {x: 5, y: -7}
+        - {x: 5, y: -6}
+        - {x: 6, y: -6}
+        - {x: 6, y: -8}
+        - {x: 5, y: -8}
+        - {x: 5, y: -9}
+        - {x: 4, y: -9}
+        - {x: 4, y: -10}
+        - {x: 3, y: -10}
+        - {x: 3, y: -9}
+        - {x: -1, y: -9}
+        - {x: -1, y: -10}
+        - {x: -5, y: -10}
+        - {x: -5, y: -11}
+        - {x: -4, y: -11}
+        - {x: -4, y: -12}
+        - {x: -6, y: -12}
+        - {x: -6, y: -11}
+        - {x: -7, y: -11}
+        - {x: -7, y: -8}
+        - {x: -8, y: -8}
+        - {x: -8, y: -4}
+        - {x: -7, y: -4}
+        - {x: -7, y: -2}
+        - {x: -6, y: -2}
+        - {x: -6, y: -1}
+        - {x: -4, y: -1}
+        - {x: -4, y: 0}
+        - {x: -4, y: 1}
+        - {x: -5, y: 1}
+        - {x: -5, y: 2}
+        - {x: -6, y: 2}
+        - {x: -6, y: 3}
+        - {x: -5, y: 3}
+        - {x: -5, y: 5}
+        - {x: -4, y: 5}
+        - {x: -4, y: 7}
+        - {x: -3, y: 7}
+        - {x: -3, y: 8}
+        - {x: -1.0277481, y: 7.9999847}
+        - {x: -1, y: 9}
+        - {x: 2, y: 9}
+        - {x: 2, y: 8}
+        - {x: 4, y: 8}
+        - {x: 4, y: 5.068344}
+        - {x: 5, y: 5}
+        - {x: 5, y: 4}
+        - {x: 6, y: 4}
+        - {x: 6, y: 3}
+        - {x: 4, y: 3}
+        - {x: 4, y: 0}
+      - - {x: 4, y: -2}
+        - {x: 4, y: -1}
+        - {x: 5, y: -1}
+        - {x: 5, y: -2}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab3aa227528115498368a960aa7333f
+      internalID: 1683629675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mario Bros - Mario & Luigi_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: -3}
+        - {x: 6, y: -3}
+        - {x: 6, y: -6}
+        - {x: 4, y: -6}
+        - {x: 4, y: -8}
+        - {x: 3, y: -8}
+        - {x: 3, y: -9}
+        - {x: 4, y: -9}
+        - {x: 4, y: -10}
+        - {x: 0, y: -10}
+        - {x: 0, y: -12}
+        - {x: -4, y: -12}
+        - {x: -4, y: -5}
+        - {x: -5, y: -5}
+        - {x: -5, y: -2}
+        - {x: -4, y: -2}
+        - {x: -4, y: 1}
+        - {x: -5, y: 1}
+        - {x: -5, y: 2}
+        - {x: -6, y: 2}
+        - {x: -6, y: 3}
+        - {x: -5, y: 3}
+        - {x: -5, y: 5}
+        - {x: -4, y: 5}
+        - {x: -4, y: 7}
+        - {x: -3, y: 7}
+        - {x: -3, y: 8}
+        - {x: -1, y: 8}
+        - {x: -1, y: 9}
+        - {x: 2, y: 9}
+        - {x: 2, y: 8}
+        - {x: 4, y: 8}
+        - {x: 4, y: 4.9518127}
+        - {x: 5, y: 5}
+        - {x: 5, y: 4}
+        - {x: 6, y: 4}
+        - {x: 6, y: 3}
+        - {x: 4, y: 3}
+        - {x: 4, y: 0}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa40c1f62bbca14bb4d6f7417ad1484
+      internalID: -11212424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mario Bros - Mario & Luigi_3
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 224
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 4}
+        - {x: 6, y: 3}
+        - {x: 7, y: 3}
+        - {x: 7, y: 2}
+        - {x: 4, y: 2}
+        - {x: 4, y: 1}
+        - {x: 5, y: 1}
+        - {x: 5, y: 0}
+        - {x: 4, y: 0}
+        - {x: 4, y: -4}
+        - {x: 6, y: -4}
+        - {x: 6, y: -2}
+        - {x: 8, y: -2}
+        - {x: 8, y: -5}
+        - {x: 7, y: -5}
+        - {x: 7, y: -6}
+        - {x: 5, y: -5.9613953}
+        - {x: 5, y: -8}
+        - {x: 4, y: -8}
+        - {x: 4, y: -10}
+        - {x: 3, y: -10}
+        - {x: 3, y: -11}
+        - {x: 4, y: -11}
+        - {x: 4, y: -12}
+        - {x: 0, y: -12}
+        - {x: 0, y: -9}
+        - {x: -1, y: -9}
+        - {x: -1, y: -10}
+        - {x: -5, y: -10}
+        - {x: -5, y: -9}
+        - {x: -6, y: -9}
+        - {x: -6, y: -10}
+        - {x: -7, y: -10}
+        - {x: -7, y: -8}
+        - {x: -6, y: -8}
+        - {x: -6, y: -4}
+        - {x: -5, y: -4}
+        - {x: -5, y: -3}
+        - {x: -4, y: -3}
+        - {x: -4, y: 1}
+        - {x: -5, y: 1}
+        - {x: -5, y: 2}
+        - {x: -4, y: 2}
+        - {x: -4, y: 4}
+        - {x: -3, y: 4}
+        - {x: -3, y: 6}
+        - {x: -2, y: 6}
+        - {x: -2, y: 7}
+        - {x: 0, y: 7}
+        - {x: 0, y: 8}
+        - {x: 3, y: 8}
+        - {x: 3, y: 6}
+        - {x: 5, y: 6}
+        - {x: 5, y: 5}
+        - {x: 4, y: 5}
+        - {x: 4, y: 4}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0892fb555994946459e51ae5d1d2330a
+      internalID: -422156503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mario Bros - Mario & Luigi_4
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 224
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 5}
+        - {x: -6, y: 7}
+        - {x: -5, y: 7}
+        - {x: -5, y: 8}
+        - {x: -3, y: 8}
+        - {x: -3, y: 9}
+        - {x: 0, y: 9}
+        - {x: 0.0000076293945, y: 7.9806976}
+        - {x: 1, y: 8}
+        - {x: 1, y: 10}
+        - {x: 2, y: 10}
+        - {x: 2, y: 11}
+        - {x: 5, y: 11}
+        - {x: 5, y: 7}
+        - {x: 6, y: 7}
+        - {x: 6, y: 2}
+        - {x: 5, y: 2}
+        - {x: 5, y: 0}
+        - {x: 4, y: 0}
+        - {x: 4, y: -4}
+        - {x: 6, y: -4}
+        - {x: 6, y: -2}
+        - {x: 7, y: -2}
+        - {x: 7, y: -7}
+        - {x: 4, y: -7}
+        - {x: 4, y: -8}
+        - {x: 0, y: -8}
+        - {x: 0, y: -9}
+        - {x: -1, y: -9}
+        - {x: -1, y: -10}
+        - {x: -3, y: -10}
+        - {x: -3, y: -9}
+        - {x: -4, y: -9}
+        - {x: -4, y: -8}
+        - {x: -6, y: -8}
+        - {x: -6, y: -9}
+        - {x: -7, y: -9}
+        - {x: -7, y: -7}
+        - {x: -6, y: -7}
+        - {x: -6, y: -6}
+        - {x: -5, y: -6}
+        - {x: -5, y: -5}
+        - {x: -4, y: -5}
+        - {x: -4, y: -4}
+        - {x: -6, y: -4}
+        - {x: -6, y: -5}
+        - {x: -7, y: -5}
+        - {x: -7, y: -4}
+        - {x: -8, y: -4}
+        - {x: -8, y: 0}
+        - {x: -8, y: 4}
+        - {x: -7, y: 4}
+        - {x: -7, y: 5}
+      - - {x: 1, y: 9}
+        - {x: 1, y: 9}
+        - {x: 1, y: 9}
+        - {x: 1, y: 9}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae9c669e3f516746b33e4ee1ec3cf76
+      internalID: -369297911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mario Bros - Mario & Luigi_5
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 224
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 1}
+        - {x: 6, y: 1}
+        - {x: 6, y: 0}
+        - {x: 8, y: 0}
+        - {x: 8, y: -4}
+        - {x: 6, y: -4}
+        - {x: 6, y: -5}
+        - {x: 5, y: -5}
+        - {x: 5, y: -6}
+        - {x: 4, y: -5.9599915}
+        - {x: 4, y: -7}
+        - {x: 5, y: -7}
+        - {x: 5, y: -9}
+        - {x: 6, y: -9}
+        - {x: 6, y: -7}
+        - {x: 7, y: -7}
+        - {x: 7, y: -10}
+        - {x: 6, y: -10}
+        - {x: 6, y: -11}
+        - {x: 5, y: -11}
+        - {x: 5, y: -12}
+        - {x: 0, y: -12}
+        - {x: 0, y: -11}
+        - {x: -1, y: -11}
+        - {x: -2, y: -11}
+        - {x: -2, y: -10}
+        - {x: -4, y: -10}
+        - {x: -4, y: -8}
+        - {x: -8, y: -8}
+        - {x: -8, y: -2}
+        - {x: -7, y: -2}
+        - {x: -7, y: -1}
+        - {x: -6, y: -1}
+        - {x: -6, y: 0}
+        - {x: -8, y: 0}
+        - {x: -8, y: 4}
+        - {x: -7, y: 4}
+        - {x: -7, y: 5}
+        - {x: -6, y: 5}
+        - {x: -6, y: 7}
+        - {x: -5, y: 6.919998}
+        - {x: -5, y: 8}
+        - {x: -3.0559998, y: 8.000015}
+        - {x: -3, y: 9}
+        - {x: 0, y: 9}
+        - {x: 0, y: 7}
+        - {x: 2, y: 7}
+        - {x: 2, y: 6}
+        - {x: 3, y: 6}
+        - {x: 3, y: 4}
+        - {x: 4, y: 4}
+        - {x: 4, y: 3}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba2bf35dae7c06a4794c047321e4ef02
+      internalID: -86552308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mario Bros - Mario & Luigi_6
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: -5}
+        - {x: 6, y: -7}
+        - {x: 7, y: -7}
+        - {x: 7, y: -8}
+        - {x: 3, y: -8}
+        - {x: 3, y: -7}
+        - {x: -3, y: -7}
+        - {x: -3, y: -8}
+        - {x: -7, y: -8}
+        - {x: -7, y: -7}
+        - {x: -6, y: -7}
+        - {x: -6, y: -5}
+        - {x: -8, y: -5}
+        - {x: -8, y: -2}
+        - {x: -6, y: -2}
+        - {x: -6, y: -1}
+        - {x: -5, y: -1}
+        - {x: -5, y: 2}
+        - {x: -4, y: 2}
+        - {x: -4, y: 4}
+        - {x: -3, y: 4}
+        - {x: -3, y: 5}
+        - {x: 2, y: 5}
+        - {x: 2, y: 4.0087585}
+        - {x: 4, y: 4}
+        - {x: 4, y: 3}
+        - {x: 5, y: 3}
+        - {x: 5, y: 2}
+        - {x: 6, y: 2}
+        - {x: 6, y: 1}
+        - {x: 4, y: 1}
+        - {x: 4, y: -1}
+        - {x: 7, y: -1}
+        - {x: 7, y: -2}
+        - {x: 8, y: -2}
+        - {x: 8, y: -5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f42a62aa1c86d4793553596a6f2a87
+      internalID: 2072985682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mario Bros - Mario & Luigi_7
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ebe53409400d41459d5355b52158be4
+      internalID: 12658076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mario Bros - Mario & Luigi_8
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 0}
+        - {x: 8, y: 0}
+        - {x: 8, y: -4}
+        - {x: 6, y: -4}
+        - {x: 6, y: -7}
+        - {x: 7, y: -7}
+        - {x: 7, y: -8}
+        - {x: 3, y: -8}
+        - {x: 3, y: -7}
+        - {x: 2, y: -7}
+        - {x: 2, y: -6}
+        - {x: -2, y: -6}
+        - {x: -2, y: -7}
+        - {x: -3, y: -7}
+        - {x: -3, y: -8}
+        - {x: -7, y: -8}
+        - {x: -7, y: -7}
+        - {x: -6, y: -7}
+        - {x: -6, y: -4}
+        - {x: -8, y: -4}
+        - {x: -8, y: 0}
+        - {x: -7, y: 0}
+        - {x: -7, y: 1}
+        - {x: -5, y: 1}
+        - {x: -5, y: 2}
+        - {x: -6, y: 2}
+        - {x: -6, y: 3}
+        - {x: -5, y: 3}
+        - {x: -5, y: 5}
+        - {x: -4, y: 5}
+        - {x: -4, y: 7}
+        - {x: -3, y: 7}
+        - {x: -3, y: 8}
+        - {x: 4, y: 8}
+        - {x: 4, y: 5}
+        - {x: 5, y: 5}
+        - {x: 5, y: 4}
+        - {x: 6, y: 4}
+        - {x: 6, y: 3}
+        - {x: 5, y: 3}
+        - {x: 5, y: 2}
+        - {x: 4, y: 2}
+        - {x: 4, y: 1}
+        - {x: 7, y: 1}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc663ebb948cdd4a9731103803c4b3d
+      internalID: 633227289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mario Bros - Mario & Luigi_9
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 192
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: -8}
+        - {x: 2, y: -9}
+        - {x: -2, y: -9}
+        - {x: -2, y: -8}
+        - {x: -4, y: -8}
+        - {x: -4, y: -9}
+        - {x: -6, y: -9}
+        - {x: -6, y: -8}
+        - {x: -7, y: -8}
+        - {x: -7, y: -7}
+        - {x: -8, y: -7}
+        - {x: -8, y: -4}
+        - {x: -6, y: -4}
+        - {x: -6, y: -2}
+        - {x: -4, y: -2}
+        - {x: -4, y: 0}
+        - {x: -5, y: 0}
+        - {x: -5, y: 2}
+        - {x: -6, y: 2}
+        - {x: -6, y: 3}
+        - {x: -8, y: 3}
+        - {x: -8, y: 5}
+        - {x: -6, y: 5}
+        - {x: -6, y: 6}
+        - {x: -5, y: 6}
+        - {x: -5, y: 4}
+        - {x: -4, y: 4}
+        - {x: -4, y: 8}
+        - {x: -5, y: 8}
+        - {x: -5, y: 9}
+        - {x: -4, y: 9}
+        - {x: -4, y: 10}
+        - {x: -3, y: 10}
+        - {x: 0, y: 10}
+        - {x: 0, y: 9}
+        - {x: 3, y: 9}
+        - {x: 3, y: 8}
+        - {x: 4, y: 8}
+        - {x: 4, y: 5}
+        - {x: 5, y: 5}
+        - {x: 5, y: 4}
+        - {x: 6, y: 4}
+        - {x: 6, y: 6}
+        - {x: 7, y: 6}
+        - {x: 7, y: 5}
+        - {x: 8, y: 5}
+        - {x: 8, y: 0}
+        - {x: 5, y: 0}
+        - {x: 5, y: -2}
+        - {x: 6, y: -2}
+        - {x: 6, y: -4}
+        - {x: 8, y: -4}
+        - {x: 8, y: -8}
+        - {x: 6, y: -8}
+        - {x: 6, y: -9}
+        - {x: 4, y: -9}
+        - {x: 4, y: -8}
+      - - {x: -6, y: 9}
+        - {x: -6, y: 10}
+        - {x: -5, y: 10}
+        - {x: -5, y: 9}
+      - - {x: -5, y: 10}
+        - {x: -5, y: 11}
+        - {x: -4, y: 11}
+        - {x: -4, y: 10}
+      - - {x: -4, y: 11}
+        - {x: -4, y: 12}
+        - {x: -3, y: 12}
+        - {x: -3, y: 11}
+      - - {x: -3, y: 10}
+        - {x: -3, y: 11}
+        - {x: -1, y: 11}
+        - {x: -1, y: 10}
+      - - {x: -1, y: 11}
+        - {x: -1, y: 12}
+        - {x: 0, y: 12}
+        - {x: 0, y: 11}
+      - - {x: 1, y: 10}
+        - {x: 1, y: 11}
+        - {x: 2, y: 11}
+        - {x: 2, y: 10}
+      - - {x: 2, y: 11}
+        - {x: 2, y: 12}
+        - {x: 3, y: 12}
+        - {x: 3, y: 11}
+      - - {x: 5, y: 10}
+        - {x: 5, y: 11}
+        - {x: 6, y: 11}
+        - {x: 6, y: 10}
+      - - {x: 3, y: 9}
+        - {x: 3, y: 10}
+        - {x: 4, y: 10}
+        - {x: 4, y: 9}
+      - - {x: 4, y: 8}
+        - {x: 4, y: 9}
+        - {x: 5, y: 9}
+        - {x: 5, y: 8}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f26baf155a2331b40b0d65832c3c2d01
+      internalID: -952278044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mario Bros - Mario & Luigi_12
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 144
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: -2}
+        - {x: 6, y: -3}
+        - {x: 7, y: -3}
+        - {x: 7, y: -4}
+        - {x: 8, y: -4}
+        - {x: 8, y: -8}
+        - {x: 6, y: -8}
+        - {x: 6, y: -11}
+        - {x: 7, y: -11}
+        - {x: 7, y: -12}
+        - {x: 3, y: -12}
+        - {x: 3, y: -10}
+        - {x: 2, y: -10}
+        - {x: 2, y: -9}
+        - {x: -2, y: -9}
+        - {x: -2, y: -10}
+        - {x: -3, y: -10}
+        - {x: -3, y: -12}
+        - {x: -7, y: -12}
+        - {x: -7, y: -11}
+        - {x: -6, y: -11}
+        - {x: -6, y: -8}
+        - {x: -5, y: -8}
+        - {x: -5, y: -7}
+        - {x: -4, y: -7}
+        - {x: -4, y: -4}
+        - {x: -5, y: -4}
+        - {x: -5, y: -6}
+        - {x: -6, y: -6}
+        - {x: -6, y: -7}
+        - {x: -6.940031, y: -7.059967}
+        - {x: -7, y: -6}
+        - {x: -8, y: -6}
+        - {x: -8, y: -3}
+        - {x: -7, y: -3}
+        - {x: -7, y: -2}
+        - {x: -6, y: -2}
+        - {x: -6, y: -1}
+        - {x: -4, y: -1}
+        - {x: -4, y: 1.0584564}
+        - {x: -5, y: 1}
+        - {x: -5, y: 2}
+        - {x: -6, y: 2}
+        - {x: -6, y: 3}
+        - {x: -5, y: 3}
+        - {x: -5, y: 5}
+        - {x: -4, y: 5}
+        - {x: -4, y: 8}
+        - {x: -1, y: 8}
+        - {x: -1, y: 9}
+        - {x: 2, y: 9}
+        - {x: 2, y: 8}
+        - {x: 4, y: 8}
+        - {x: 4, y: 5}
+        - {x: 5, y: 5}
+        - {x: 5, y: 4}
+        - {x: 6, y: 4}
+        - {x: 6, y: 3}
+        - {x: 5, y: 3}
+        - {x: 5, y: 2}
+        - {x: 4, y: 2}
+        - {x: 4, y: -2}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1cfb66c49902af4db3862b6d39b8912
+      internalID: 11041494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mario Bros - Mario & Luigi_13
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 144
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: -1}
+        - {x: 5, y: 0}
+        - {x: 6, y: 0}
+        - {x: 6, y: -1}
+        - {x: 7, y: -1}
+        - {x: 7, y: -3}
+        - {x: 6, y: -3}
+        - {x: 6, y: -4}
+        - {x: 4, y: -4}
+        - {x: 4, y: -7}
+        - {x: 5, y: -7}
+        - {x: 5, y: -6}
+        - {x: 6, y: -6}
+        - {x: 6, y: -8}
+        - {x: 5, y: -8}
+        - {x: 5, y: -9}
+        - {x: 4, y: -9}
+        - {x: 4, y: -12}
+        - {x: 0, y: -12}
+        - {x: 0, y: -9}
+        - {x: -1, y: -9}
+        - {x: -1, y: -10}
+        - {x: -4, y: -10}
+        - {x: -4, y: -12}
+        - {x: -8, y: -12}
+        - {x: -8, y: -8}
+        - {x: -5, y: -8}
+        - {x: -5, y: -5}
+        - {x: -6, y: -5}
+        - {x: -6, y: -4}
+        - {x: -7, y: -4}
+        - {x: -7, y: -2}
+        - {x: -6, y: -2}
+        - {x: -6, y: -1}
+        - {x: -4, y: -1}
+        - {x: -3.9999962, y: 1.0584717}
+        - {x: -5, y: 1}
+        - {x: -5, y: 2}
+        - {x: -6, y: 2}
+        - {x: -6, y: 3}
+        - {x: -5, y: 3}
+        - {x: -5, y: 5}
+        - {x: -4, y: 5}
+        - {x: -4, y: 8}
+        - {x: -0.9518089, y: 8}
+        - {x: -1, y: 9}
+        - {x: 2, y: 9}
+        - {x: 2, y: 8}
+        - {x: 4, y: 8}
+        - {x: 4, y: 4.951828}
+        - {x: 5, y: 5}
+        - {x: 5, y: 4}
+        - {x: 6, y: 4}
+        - {x: 6, y: 3}
+        - {x: 5, y: 3}
+        - {x: 5, y: 2}
+        - {x: 4, y: 2}
+        - {x: 4, y: -1}
+      - - {x: -5, y: 1}
+        - {x: -5, y: 2}
+        - {x: -5, y: 2}
+        - {x: -5, y: 1}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0951227f1205944be7777d27be441a
+      internalID: 1311065286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mario Bros - Mario & Luigi_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 144
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: -8}
+        - {x: 3, y: -8}
+        - {x: 3, y: -9}
+        - {x: 4, y: -9}
+        - {x: 4, y: -10}
+        - {x: 0, y: -10}
+        - {x: 0, y: -12}
+        - {x: -4, y: -12}
+        - {x: -4, y: -6}
+        - {x: -4, y: -5.0394897}
+        - {x: -5, y: -5}
+        - {x: -5, y: -2}
+        - {x: -4, y: -2}
+        - {x: -4, y: 0.95487976}
+        - {x: -5, y: 1}
+        - {x: -5, y: 2}
+        - {x: -6, y: 2}
+        - {x: -6, y: 3}
+        - {x: -5, y: 3}
+        - {x: -5, y: 5}
+        - {x: -4, y: 5}
+        - {x: -4, y: 8}
+        - {x: -1, y: 8}
+        - {x: -1, y: 9}
+        - {x: 2, y: 9}
+        - {x: 2, y: 8}
+        - {x: 4, y: 8}
+        - {x: 4, y: 4.975998}
+        - {x: 5, y: 5}
+        - {x: 5, y: 4}
+        - {x: 6, y: 4}
+        - {x: 6, y: 3}
+        - {x: 5, y: 3}
+        - {x: 5, y: 2}
+        - {x: 4, y: 2}
+        - {x: 4, y: -3.068344}
+        - {x: 6, y: -3}
+        - {x: 6, y: -6}
+        - {x: 4, y: -6}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f42dd670de7c63841895dca3ae862116
+      internalID: 1117619009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mario Bros - Mario & Luigi_15
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 144
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -12}
+        - {x: 0, y: -9}
+        - {x: -1, y: -9}
+        - {x: -1, y: -10}
+        - {x: -5, y: -10}
+        - {x: -5, y: -9}
+        - {x: -6, y: -9}
+        - {x: -6, y: -10}
+        - {x: -7, y: -10}
+        - {x: -7, y: -8}
+        - {x: -6, y: -8}
+        - {x: -6, y: -4}
+        - {x: -5, y: -4}
+        - {x: -5, y: -3}
+        - {x: -4, y: -3}
+        - {x: -4, y: 1.0310364}
+        - {x: -5, y: 1}
+        - {x: -5, y: 2}
+        - {x: -4, y: 2}
+        - {x: -4, y: 8}
+        - {x: 4, y: 8}
+        - {x: 4, y: 6}
+        - {x: 5, y: 6}
+        - {x: 5, y: 5}
+        - {x: 4, y: 5}
+        - {x: 3.9999924, y: 3.9672546}
+        - {x: 6, y: 4}
+        - {x: 6, y: 3}
+        - {x: 7, y: 3}
+        - {x: 7, y: 2}
+        - {x: 6, y: 2}
+        - {x: 6, y: 1}
+        - {x: 5, y: 1}
+        - {x: 5, y: 0}
+        - {x: 4, y: 0}
+        - {x: 4, y: -3.057907}
+        - {x: 5, y: -3}
+        - {x: 5, y: -4}
+        - {x: 6, y: -4}
+        - {x: 6, y: -2}
+        - {x: 8, y: -2}
+        - {x: 8, y: -8}
+        - {x: 4, y: -8}
+        - {x: 4, y: -12}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 956719b638ca5524394466f2bbf1d7a9
+      internalID: 1225839746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mario Bros - Mario & Luigi_16
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 144
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 0}
+        - {x: 4, y: -4}
+        - {x: 6, y: -4}
+        - {x: 6, y: -2}
+        - {x: 7, y: -2}
+        - {x: 7, y: -4}
+        - {x: 8, y: -4}
+        - {x: 8, y: -8}
+        - {x: 0, y: -8}
+        - {x: 0, y: -9}
+        - {x: -1, y: -9}
+        - {x: -1, y: -10}
+        - {x: -3, y: -10}
+        - {x: -3, y: -9}
+        - {x: -4, y: -9}
+        - {x: -4, y: -8}
+        - {x: -6, y: -8}
+        - {x: -6, y: -9}
+        - {x: -7, y: -9}
+        - {x: -7, y: -7}
+        - {x: -6, y: -7}
+        - {x: -6, y: -6}
+        - {x: -5, y: -6}
+        - {x: -5, y: -5}
+        - {x: -4, y: -5}
+        - {x: -4, y: -4}
+        - {x: -6, y: -4}
+        - {x: -6, y: -5}
+        - {x: -7, y: -5}
+        - {x: -7, y: -4}
+        - {x: -8, y: -4}
+        - {x: -8, y: -1}
+        - {x: -8, y: 8}
+        - {x: -3.046692, y: 8}
+        - {x: -3, y: 9}
+        - {x: 0, y: 9}
+        - {x: 0, y: 8}
+        - {x: 1, y: 8}
+        - {x: 1, y: 10}
+        - {x: 2, y: 10}
+        - {x: 2, y: 11}
+        - {x: 5, y: 11}
+        - {x: 5, y: 7}
+        - {x: 6, y: 7}
+        - {x: 6, y: 2}
+        - {x: 5, y: 2}
+        - {x: 5, y: 0}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a8b58267b738384b8a62a33b8af02c1
+      internalID: -1715610636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mario Bros - Mario & Luigi_17
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 224
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: -2}
+        - {x: 6, y: -2}
+        - {x: 6, y: -4}
+        - {x: 8, y: -4}
+        - {x: 8, y: -7}
+        - {x: 7, y: -7}
+        - {x: 7, y: -8}
+        - {x: 6, y: -8}
+        - {x: 6, y: -9}
+        - {x: 4, y: -9}
+        - {x: 4, y: -8}
+        - {x: 2, y: -8}
+        - {x: 2, y: -9}
+        - {x: -2, y: -9}
+        - {x: -2, y: -8}
+        - {x: -4, y: -8}
+        - {x: -4, y: -9}
+        - {x: -6, y: -9}
+        - {x: -6, y: -8}
+        - {x: -7, y: -8}
+        - {x: -7, y: -7}
+        - {x: -8, y: -7}
+        - {x: -8, y: -4}
+        - {x: -6, y: -4}
+        - {x: -6, y: -2}
+        - {x: -4, y: -2}
+        - {x: -4, y: 0}
+        - {x: -5, y: 0}
+        - {x: -5, y: 2}
+        - {x: -6, y: 2}
+        - {x: -6, y: 3}
+        - {x: -8, y: 3}
+        - {x: -8, y: 5}
+        - {x: -6, y: 5}
+        - {x: -6, y: 6}
+        - {x: -5, y: 6}
+        - {x: -5, y: 4}
+        - {x: -4, y: 4}
+        - {x: -4, y: 10}
+        - {x: -3, y: 10}
+        - {x: -3, y: 11}
+        - {x: -1, y: 11}
+        - {x: -1, y: 10}
+        - {x: 0, y: 10}
+        - {x: 0.023239136, y: 9}
+        - {x: 3, y: 9}
+        - {x: 2.9999847, y: 8.063995}
+        - {x: 4, y: 8}
+        - {x: 4, y: 5}
+        - {x: 5, y: 5}
+        - {x: 5, y: 4}
+        - {x: 6, y: 4}
+        - {x: 6, y: 6}
+        - {x: 7, y: 6}
+        - {x: 7, y: 5}
+        - {x: 8, y: 5}
+        - {x: 8, y: 0}
+        - {x: 5, y: 0}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a89572bfac1655458d152f61c2dc986
+      internalID: 52885142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mario Bros - Mario & Luigi_18
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -8}
+        - {x: -8, y: -5}
+        - {x: -8, y: -2}
+        - {x: -8, y: 0}
+        - {x: -8, y: 0}
+        - {x: -8, y: 0}
+        - {x: -7, y: 0}
+        - {x: -7, y: 0}
+        - {x: -7, y: 1}
+        - {x: -6, y: 1}
+        - {x: -6, y: 2}
+        - {x: -5, y: 2}
+        - {x: -5, y: 3}
+        - {x: -4, y: 2.9735641}
+        - {x: -4, y: 4}
+        - {x: -3, y: 4}
+        - {x: -3, y: 5}
+        - {x: 2, y: 5}
+        - {x: 2, y: 4}
+        - {x: 4, y: 4}
+        - {x: 4, y: 3}
+        - {x: 5, y: 3}
+        - {x: 5, y: 2}
+        - {x: 6, y: 2}
+        - {x: 6, y: 1}
+        - {x: 5, y: 1}
+        - {x: 5, y: 0}
+        - {x: 8, y: 0}
+        - {x: 8, y: -8}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca5dfda2f88d3ae458b43d6a2b1421da
+      internalID: -1967637800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mario Bros - Mario & Luigi_19
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -8}
+        - {x: -7, y: -7}
+        - {x: -6, y: -7}
+        - {x: -6, y: -4}
+        - {x: -8, y: -4}
+        - {x: -8, y: 0}
+        - {x: -7, y: 0}
+        - {x: -7, y: 1}
+        - {x: -5, y: 1}
+        - {x: -5, y: 2}
+        - {x: -6, y: 2}
+        - {x: -6, y: 3}
+        - {x: -5, y: 3}
+        - {x: -5, y: 5}
+        - {x: -4, y: 5}
+        - {x: -4, y: 8}
+        - {x: 4, y: 8}
+        - {x: 4, y: 5}
+        - {x: 5, y: 5}
+        - {x: 5, y: 4}
+        - {x: 6, y: 4}
+        - {x: 6, y: 3}
+        - {x: 4, y: 3}
+        - {x: 4, y: 1}
+        - {x: 7, y: 1}
+        - {x: 7, y: 0}
+        - {x: 8, y: 0}
+        - {x: 8, y: -8}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 322da1e481e6b08489f88ee2624e9183
+      internalID: 823405801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mario Bros - Mario & Luigi_20
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 112
+        width: 16
+        height: 24
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.5, y: -9.5}
+        - {x: 3.5, y: -9.5}
+        - {x: 3.5, y: -8.5}
+        - {x: 1.5, y: -8.5}
+        - {x: 1.5, y: -9.5}
+        - {x: -2.5, y: -9.5}
+        - {x: -2.5, y: -8.5}
+        - {x: -4.5, y: -8.5}
+        - {x: -4.5, y: -9.5}
+        - {x: -6.5, y: -9.5}
+        - {x: -6.5, y: -8.5}
+        - {x: -8.5, y: -8.5}
+        - {x: -8.5, y: -4.5}
+        - {x: -6.5, y: -4.5}
+        - {x: -6.5, y: -2.5}
+        - {x: -4.5, y: -2.5}
+        - {x: -4.5000076, y: -0.61886597}
+        - {x: -5.5, y: -0.5}
+        - {x: -5.5, y: 1.5}
+        - {x: -6.5, y: 1.5}
+        - {x: -6.5, y: 2.5}
+        - {x: -8.5, y: 2.5}
+        - {x: -8.5, y: 4.5}
+        - {x: -6.5, y: 4.5}
+        - {x: -6.5, y: 5.5}
+        - {x: -5.5, y: 5.5}
+        - {x: -5.5, y: 3.5}
+        - {x: -4.5, y: 3.5}
+        - {x: -4.5, y: 11.5}
+        - {x: -0.5, y: 11.5}
+        - {x: -0.5, y: 8.5}
+        - {x: 2.5, y: 8.5}
+        - {x: 2.5, y: 7.5}
+        - {x: 3.5, y: 7.5}
+        - {x: 3.5, y: 4.5}
+        - {x: 4.5, y: 4.5}
+        - {x: 4.5, y: 3.5}
+        - {x: 5.5, y: 3.5}
+        - {x: 5.5, y: 5.5}
+        - {x: 6.5, y: 5.5}
+        - {x: 6.5, y: 4.5}
+        - {x: 7.5, y: 4.5}
+        - {x: 7.5, y: 2.5}
+        - {x: 6.5, y: 2.5}
+        - {x: 6.5, y: 1.5}
+        - {x: 5.5, y: 1.5}
+        - {x: 5.5, y: -0.5}
+        - {x: 4.5, y: -0.5}
+        - {x: 4.5, y: -2.5}
+        - {x: 5.5, y: -2.5}
+        - {x: 5.5, y: -4.5}
+        - {x: 7.5, y: -4.5}
+        - {x: 7.5, y: -8.5}
+        - {x: 5.5, y: -8.5}
+      - - {x: -6.5, y: 8.5}
+        - {x: -6.5, y: 9.5}
+        - {x: -5.5, y: 9.5}
+        - {x: -5.5, y: 8.5}
+      - - {x: -5.5, y: 7.5}
+        - {x: -5.5, y: 8.5}
+        - {x: -4.5, y: 8.5}
+        - {x: -4.5, y: 7.5}
+      - - {x: -5.5, y: 9.5}
+        - {x: -5.5, y: 10.5}
+        - {x: -4.5, y: 10.5}
+        - {x: -4.5, y: 9.5}
+      - - {x: 0.5, y: 9.5}
+        - {x: 0.5, y: 10.5}
+        - {x: 1.5, y: 10.5}
+        - {x: 1.5, y: 9.5}
+      - - {x: 1.5, y: 10.5}
+        - {x: 1.5, y: 11.5}
+        - {x: 2.5, y: 11.5}
+        - {x: 2.5, y: 10.5}
+      - - {x: 2.5, y: 8.5}
+        - {x: 2.5, y: 9.5}
+        - {x: 3.5, y: 9.5}
+        - {x: 3.5, y: 8.5}
+      - - {x: 3.5, y: 7.5}
+        - {x: 3.5, y: 8.5}
+        - {x: 4.5, y: 8.5}
+        - {x: 4.5, y: 7.5}
+      - - {x: 4.5, y: 9.5}
+        - {x: 4.5, y: 10.5}
+        - {x: 5.5, y: 10.5}
+        - {x: 5.5, y: 9.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dabba2c06bf7f3540ad79ce572086e9c
+      internalID: 1754640656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mario Bros - Mario & Luigi_21
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 144
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -9}
+        - {x: -2, y: -8}
+        - {x: -8, y: -8}
+        - {x: -8, y: 8}
+        - {x: -3, y: 8}
+        - {x: -3, y: 9}
+        - {x: 0, y: 9}
+        - {x: 0, y: 7.0657806}
+        - {x: 2, y: 7}
+        - {x: 2, y: 6}
+        - {x: 0, y: 6}
+        - {x: 0.000015258789, y: 5.0394897}
+        - {x: 3, y: 5}
+        - {x: 3, y: 4}
+        - {x: 4, y: 4}
+        - {x: 4, y: 1}
+        - {x: 6, y: 1}
+        - {x: 6, y: 0}
+        - {x: 8, y: 0}
+        - {x: 8, y: -4}
+        - {x: 6, y: -4}
+        - {x: 6, y: -5}
+        - {x: 5, y: -5}
+        - {x: 5, y: -6}
+        - {x: 4, y: -6}
+        - {x: 4, y: -7}
+        - {x: 5, y: -7}
+        - {x: 5, y: -8}
+        - {x: 4, y: -8}
+        - {x: 4, y: -9}
+        - {x: 6, y: -9}
+        - {x: 6, y: -8}
+        - {x: 7, y: -8}
+        - {x: 7, y: -10}
+        - {x: 6, y: -10}
+        - {x: 6, y: -11}
+        - {x: 5, y: -11}
+        - {x: 5, y: -12}
+        - {x: 0, y: -12}
+        - {x: 0, y: -9}
+      - - {x: -4, y: -10}
+        - {x: -4, y: -9}
+        - {x: -3, y: -9}
+        - {x: -3, y: -10}
+      - - {x: -2, y: -11}
+        - {x: -2, y: -10}
+        - {x: -1, y: -10}
+        - {x: -1, y: -11}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 656ac8fbf5a75a642a77efbb3aa29300
+      internalID: 596836160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mario Bros - Mario & Luigi_22
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 144
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: -4}
+        - {x: 5, y: -5}
+        - {x: 4, y: -5}
+        - {x: 4, y: -8}
+        - {x: 2, y: -8}
+        - {x: 2, y: -9}
+        - {x: 0, y: -9}
+        - {x: 0, y: -12}
+        - {x: -4, y: -12}
+        - {x: -4, y: -8.038849}
+        - {x: -5, y: -8}
+        - {x: -5, y: -9}
+        - {x: -6, y: -9}
+        - {x: -6, y: -10}
+        - {x: -7, y: -10}
+        - {x: -7, y: -9}
+        - {x: -8, y: -9}
+        - {x: -8, y: -4}
+        - {x: -4, y: -4}
+        - {x: -4, y: -2}
+        - {x: -6, y: -2}
+        - {x: -6, y: -3}
+        - {x: -7, y: -3}
+        - {x: -7, y: -2}
+        - {x: -8, y: -2}
+        - {x: -8, y: 1}
+        - {x: -4, y: 1}
+        - {x: -4, y: 8}
+        - {x: -1, y: 8}
+        - {x: -1, y: 9}
+        - {x: 0, y: 9}
+        - {x: 0, y: 10}
+        - {x: 1, y: 10}
+        - {x: 1, y: 11}
+        - {x: 2, y: 11}
+        - {x: 2, y: 10}
+        - {x: 3, y: 10}
+        - {x: 3, y: 9}
+        - {x: 4, y: 9}
+        - {x: 4, y: 8}
+        - {x: 4, y: 5}
+        - {x: 6, y: 5}
+        - {x: 6, y: 4}
+        - {x: 7, y: 4}
+        - {x: 7, y: 3}
+        - {x: 6, y: 3}
+        - {x: 6, y: 2}
+        - {x: 4, y: 2}
+        - {x: 4, y: 0.98239136}
+        - {x: 6, y: 1}
+        - {x: 6, y: 0}
+        - {x: 8, y: 0}
+        - {x: 8, y: -4}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7272ea60e613759489335dcd0526b687
+      internalID: -780360539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mario Bros - Mario & Luigi_23
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 144
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: -8}
+        - {x: 6, y: -9}
+        - {x: 4, y: -9}
+        - {x: 4, y: -8}
+        - {x: 2, y: -8}
+        - {x: 2, y: -9}
+        - {x: -2, y: -9}
+        - {x: -2, y: -8}
+        - {x: -4.0259705, y: -8}
+        - {x: -4, y: -9}
+        - {x: -6, y: -9}
+        - {x: -6, y: -8}
+        - {x: -8, y: -8}
+        - {x: -8, y: -4}
+        - {x: -6, y: -4}
+        - {x: -6, y: -2}
+        - {x: -4, y: -2}
+        - {x: -4, y: 0.03211975}
+        - {x: -5, y: 0}
+        - {x: -5, y: 2}
+        - {x: -6, y: 2}
+        - {x: -6, y: 3}
+        - {x: -8, y: 3}
+        - {x: -8, y: 5}
+        - {x: -6, y: 5}
+        - {x: -6, y: 6}
+        - {x: -5, y: 6}
+        - {x: -5, y: 4}
+        - {x: -4, y: 4}
+        - {x: -4, y: 12}
+        - {x: 0, y: 12}
+        - {x: 0, y: 8}
+        - {x: 1, y: 8}
+        - {x: 1, y: 9}
+        - {x: 3, y: 9}
+        - {x: 3, y: 8}
+        - {x: 4, y: 8}
+        - {x: 4, y: 5}
+        - {x: 5, y: 5}
+        - {x: 5, y: 4}
+        - {x: 6, y: 4}
+        - {x: 6, y: 6}
+        - {x: 7, y: 6}
+        - {x: 7, y: 5}
+        - {x: 8, y: 5}
+        - {x: 8, y: 3}
+        - {x: 7, y: 3}
+        - {x: 7, y: 2}
+        - {x: 6, y: 2}
+        - {x: 6, y: 0}
+        - {x: 4, y: 0}
+        - {x: 4, y: -1.9722595}
+        - {x: 6, y: -2}
+        - {x: 6, y: -4}
+        - {x: 8, y: -4}
+        - {x: 8, y: -8}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae9c4d76b5a90f499cae950026c30d8
+      internalID: 1463609221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mario Bros - Mario & Luigi_25
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 16
+        height: 25
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994c943019ef82c419cd603f4bbff004
+      internalID: -1313725083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mario Bros - Mario & Luigi_26
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 120
+        width: 16
+        height: 8
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.0333405, y: -1.9999924}
+        - {x: 4, y: -2}
+        - {x: 4, y: 0}
+        - {x: 3, y: 0}
+        - {x: 3.0481873, y: -1.9999924}
+        - {x: 0, y: -2}
+        - {x: 0, y: 0}
+        - {x: -1, y: 0}
+        - {x: -0.94207764, y: -2}
+        - {x: -4, y: -2}
+        - {x: -4, y: 0}
+        - {x: -5, y: 0}
+        - {x: -4.9392548, y: -2}
+        - {x: -8, y: -2}
+        - {x: -8, y: 4}
+        - {x: 8, y: 4}
+        - {x: 8, y: 0}
+        - {x: 7, y: 0}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a7ac5cefcd44bc4481754860fdc9188
+      internalID: -346741149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mario Bros - Mario & Luigi_27
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 120
+        width: 16
+        height: 8
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 0}
+        - {x: 7, y: 1}
+        - {x: 4, y: 1}
+        - {x: 3.9227905, y: 0}
+        - {x: -8, y: 0}
+        - {x: -8, y: 4}
+        - {x: 8, y: 4}
+        - {x: 8, y: 0}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb01e778d02f4884d90354e795af60a3
+      internalID: -1319947866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mario Bros - Mario & Luigi_28
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 120
+        width: 16
+        height: 8
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 2}
+        - {x: 4, y: 3}
+        - {x: 3, y: 3}
+        - {x: 3.0482178, y: 2}
+        - {x: 0, y: 2}
+        - {x: 0, y: 3}
+        - {x: -1, y: 3}
+        - {x: -0.94207764, y: 2}
+        - {x: -4, y: 2}
+        - {x: -4, y: 3}
+        - {x: -5, y: 3}
+        - {x: -4.93927, y: 2}
+        - {x: -8, y: 2}
+        - {x: -8, y: 4}
+        - {x: 7, y: 4}
+        - {x: 7, y: 2}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 625b977318d1d274086b610a463ef801
+      internalID: -547026013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mario Bros - Mario & Luigi_29
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 104
+        width: 16
+        height: 8
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 2}
+        - {x: 4, y: 3}
+        - {x: 3, y: 3}
+        - {x: 3, y: 2}
+        - {x: 0, y: 2}
+        - {x: 0, y: 3}
+        - {x: -1, y: 3}
+        - {x: -0.9517975, y: 2}
+        - {x: -4, y: 2}
+        - {x: -4, y: 3}
+        - {x: -5, y: 3}
+        - {x: -5, y: 2}
+        - {x: -8, y: 2}
+        - {x: -8, y: 4}
+        - {x: 7, y: 4}
+        - {x: 7, y: 2}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12b724bfa7ad074da55a1a9e6126773
+      internalID: 1739973305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mario Bros - Mario & Luigi_33
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 104
+        width: 16
+        height: 8
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 0}
+        - {x: 7, y: -2}
+        - {x: 4, y: -2}
+        - {x: 4, y: 0}
+        - {x: 3, y: 0}
+        - {x: 3.0481873, y: -2}
+        - {x: 0, y: -2}
+        - {x: 0, y: 0}
+        - {x: -1, y: 0}
+        - {x: -0.9784241, y: -2}
+        - {x: -4, y: -2}
+        - {x: -4, y: 0}
+        - {x: -5, y: 0}
+        - {x: -4.9610443, y: -2}
+        - {x: -8, y: -2}
+        - {x: -8, y: 4}
+        - {x: 8, y: 4}
+        - {x: 8, y: 0}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 861bf51852a974440b27d6813be289a1
+      internalID: -588435626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mario Bros - Mario & Luigi_34
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 104
+        width: 16
+        height: 8
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9429437ff454d94aad95b1afa7b6de8
+      internalID: -645421546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mario Bros - Mario & Luigi_10
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 104
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 0}
+        - {x: -7.5, y: 4}
+        - {x: 7.5, y: 4}
+        - {x: 7.5, y: 0}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd8b309058456b34dac71e9e1b8fed9e
+      internalID: 1893331177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mario Bros - Mario & Luigi_24
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 4}
+        - {x: 7, y: 4}
+        - {x: 7, y: 3}
+        - {x: 4, y: 3}
+        - {x: 4, y: 1}
+        - {x: 6, y: 1}
+        - {x: 6, y: 0}
+        - {x: 8, y: 0}
+        - {x: 8, y: -4}
+        - {x: 5, y: -4}
+        - {x: 5, y: -5}
+        - {x: 4, y: -5}
+        - {x: 4, y: -8}
+        - {x: 2, y: -8}
+        - {x: 2, y: -9}
+        - {x: 0, y: -9}
+        - {x: 0, y: -10}
+        - {x: -1, y: -10}
+        - {x: -1, y: -11}
+        - {x: -3, y: -11}
+        - {x: -3, y: -9}
+        - {x: -6, y: -9}
+        - {x: -6, y: -10}
+        - {x: -7, y: -10}
+        - {x: -7, y: -9}
+        - {x: -8, y: -9}
+        - {x: -8, y: -6}
+        - {x: -7, y: -6}
+        - {x: -7, y: -5}
+        - {x: -5, y: -5}
+        - {x: -5, y: -4}
+        - {x: -8, y: -4}
+        - {x: -8, y: 1}
+        - {x: -4, y: 1}
+        - {x: -4, y: 5}
+        - {x: -3, y: 5}
+        - {x: -3, y: 7}
+        - {x: -2, y: 7}
+        - {x: -2, y: 8}
+        - {x: -1, y: 8}
+        - {x: -1, y: 9}
+        - {x: 0, y: 9}
+        - {x: 0, y: 10}
+        - {x: 1.0727692, y: 10}
+        - {x: 1, y: 11}
+        - {x: 2, y: 11}
+        - {x: 2, y: 10}
+        - {x: 3, y: 10}
+        - {x: 3, y: 9}
+        - {x: 4, y: 9}
+        - {x: 4, y: 10}
+        - {x: 5, y: 10}
+        - {x: 5, y: 9}
+        - {x: 4, y: 9}
+        - {x: 4, y: 8}
+        - {x: 4, y: 7}
+        - {x: 4, y: 5.0559998}
+        - {x: 6, y: 5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb3988b64a60814d8d611fd661ea473
+      internalID: 497150740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      NES - Mario Bros - Mario & Luigi_0: -1991218627
+      NES - Mario Bros - Mario & Luigi_1: 1683629675
+      NES - Mario Bros - Mario & Luigi_10: -11212424
+      NES - Mario Bros - Mario & Luigi_11: -422156503
+      NES - Mario Bros - Mario & Luigi_12: -369297911
+      NES - Mario Bros - Mario & Luigi_13: -86552308
+      NES - Mario Bros - Mario & Luigi_14: 2072985682
+      NES - Mario Bros - Mario & Luigi_15: 12658076
+      NES - Mario Bros - Mario & Luigi_16: 633227289
+      NES - Mario Bros - Mario & Luigi_17: -952278044
+      NES - Mario Bros - Mario & Luigi_18: 1893331177
+      NES - Mario Bros - Mario & Luigi_19: 655501215
+      NES - Mario Bros - Mario & Luigi_2: 11041494
+      NES - Mario Bros - Mario & Luigi_20: 1311065286
+      NES - Mario Bros - Mario & Luigi_21: 1117619009
+      NES - Mario Bros - Mario & Luigi_22: 1225839746
+      NES - Mario Bros - Mario & Luigi_23: -1715610636
+      NES - Mario Bros - Mario & Luigi_24: 52885142
+      NES - Mario Bros - Mario & Luigi_25: -1967637800
+      NES - Mario Bros - Mario & Luigi_26: 823405801
+      NES - Mario Bros - Mario & Luigi_27: 1754640656
+      NES - Mario Bros - Mario & Luigi_28: 596836160
+      NES - Mario Bros - Mario & Luigi_29: -780360539
+      NES - Mario Bros - Mario & Luigi_3: 1463609221
+      NES - Mario Bros - Mario & Luigi_30: 497150740
+      NES - Mario Bros - Mario & Luigi_31: -1313725083
+      NES - Mario Bros - Mario & Luigi_32: -346741149
+      NES - Mario Bros - Mario & Luigi_33: -1319947866
+      NES - Mario Bros - Mario & Luigi_34: -547026013
+      NES - Mario Bros - Mario & Luigi_35: 1739973305
+      NES - Mario Bros - Mario & Luigi_36: 279647230
+      NES - Mario Bros - Mario & Luigi_37: 895305659
+      NES - Mario Bros - Mario & Luigi_38: -179843932
+      NES - Mario Bros - Mario & Luigi_39: -588435626
+      NES - Mario Bros - Mario & Luigi_4: -645421546
+      NES - Mario Bros - Mario & Luigi_40: 1658279091
+      NES - Mario Bros - Mario & Luigi_41: 387749137
+      NES - Mario Bros - Mario & Luigi_5: 2028303572
+      NES - Mario Bros - Mario & Luigi_6: 1123415071
+      NES - Mario Bros - Mario & Luigi_7: -2117927141
+      NES - Mario Bros - Mario & Luigi_8: 2138445634
+      NES - Mario Bros - Mario & Luigi_9: -1337171324
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

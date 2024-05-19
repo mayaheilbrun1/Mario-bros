@@ -1,0 +1,2007 @@
+fileFormatVersion: 2
+guid: c74a4a93718e5794fb804944cd48ea88
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 36
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NES - Mario Bros - Tilesets_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 200
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -8}
+        - {x: -8, y: 6}
+        - {x: -4, y: 6}
+        - {x: -4, y: 4}
+        - {x: 8, y: 4}
+        - {x: 8, y: -8}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be30481494e48d54f967ec7a3400f8f0
+      internalID: -823170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mario Bros - Tilesets_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 200
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -8}
+        - {x: -8, y: 4}
+        - {x: 0, y: 4}
+        - {x: 0, y: 3}
+        - {x: 2, y: 3}
+        - {x: 2, y: 2}
+        - {x: 3, y: 2}
+        - {x: 3, y: 1}
+        - {x: 4, y: 1}
+        - {x: 4, y: -1}
+        - {x: 5, y: -1}
+        - {x: 5, y: -6}
+        - {x: 6, y: -6}
+        - {x: 6, y: -7}
+        - {x: 8, y: -7}
+        - {x: 8, y: -8}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a297c10a9d0f944387ff68b44dc7144
+      internalID: 869494636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mario Bros - Tilesets_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 200
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: -3}
+        - {x: 8, y: -4}
+        - {x: -8, y: -4}
+        - {x: -8, y: -2}
+        - {x: -4, y: -2}
+        - {x: -4, y: -3}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed39c591de03450429bb0dca6bb9e948
+      internalID: 1066654639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mario Bros - Tilesets_3
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 200
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -4}
+        - {x: -8, y: -3}
+        - {x: 8, y: -3}
+        - {x: 8, y: -4}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: decb0a6fae49f764085922c6af31e345
+      internalID: 1795853345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mario Bros - Tilesets_4
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 200
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -4}
+        - {x: -8, y: -3}
+        - {x: 4, y: -3}
+        - {x: 4, y: -2}
+        - {x: 8, y: -2}
+        - {x: 8, y: -4}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b64845ad0ee44264f83c7c3c53650efb
+      internalID: 437886825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mario Bros - Tilesets_5
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 200
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -8}
+        - {x: -8, y: -8}
+        - {x: -8, y: -7}
+        - {x: -6, y: -7}
+        - {x: -6, y: -6}
+        - {x: -5, y: -6}
+        - {x: -5, y: -1}
+        - {x: -4, y: -1}
+        - {x: -4, y: 1}
+        - {x: -3, y: 1}
+        - {x: -3, y: 2}
+        - {x: -2, y: 1.9595947}
+        - {x: -2, y: 3}
+        - {x: -0.055999756, y: 3}
+        - {x: 0, y: 4}
+        - {x: 8, y: 4}
+        - {x: 8, y: -8}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be330922a7520584aa9ea22c9fd4bfa0
+      internalID: 813980550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mario Bros - Tilesets_6
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 200
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -8}
+        - {x: -8, y: 4}
+        - {x: 4, y: 4}
+        - {x: 4, y: 6}
+        - {x: 8, y: 6}
+        - {x: 8, y: -8}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94dad8d346a032c4fa48a8df9f33ed16
+      internalID: 655659379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mario Bros - Tilesets_7
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 184
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: -2}
+        - {x: 4, y: 0}
+        - {x: -8, y: 0}
+        - {x: -8, y: 4}
+        - {x: 8, y: 4}
+        - {x: 8, y: -2}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b1742cf48264a4cb468423a6e3e7cb
+      internalID: -113511939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mario Bros - Tilesets_8
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -7}
+        - {x: -8, y: 8}
+        - {x: 8, y: 8}
+        - {x: 8, y: 3}
+        - {x: 7, y: 3}
+        - {x: 7, y: -3}
+        - {x: 6, y: -3}
+        - {x: 6, y: -5}
+        - {x: 5, y: -5}
+        - {x: 5, y: -6}
+        - {x: 4, y: -5.970886}
+        - {x: 4, y: -7}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659992825504a9e46b6f3f80900316b8
+      internalID: 1591480300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mario Bros - Tilesets_9
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -7}
+        - {x: -8, y: 8}
+        - {x: 8, y: 8}
+        - {x: 8, y: -8}
+        - {x: 4, y: -8}
+        - {x: 4, y: -7}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4094dfcdee71031488058fce7434c958
+      internalID: 1426093973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mario Bros - Tilesets_10
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -7}
+        - {x: -8, y: 8}
+        - {x: 8, y: 8}
+        - {x: 8, y: -7}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f43126ab53a883c4b9ad1c2e9e1c7d62
+      internalID: -329554168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mario Bros - Tilesets_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: -7}
+        - {x: -4, y: -8}
+        - {x: -8, y: -8}
+        - {x: -8, y: 8}
+        - {x: 8, y: 8}
+        - {x: 8, y: -7}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8209cc42a4daa01439598183eeaca4a2
+      internalID: 2102248795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mario Bros - Tilesets_12
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: -7}
+        - {x: -4, y: -6}
+        - {x: -5, y: -6}
+        - {x: -5, y: -5}
+        - {x: -6, y: -5}
+        - {x: -6, y: -3}
+        - {x: -7, y: -3}
+        - {x: -7, y: 3}
+        - {x: -8, y: 3}
+        - {x: -8, y: 8}
+        - {x: 8, y: 8}
+        - {x: 8, y: -7}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 633cb228a80130e499c666ae38c98c51
+      internalID: -1603471334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mario Bros - Tilesets_13
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 184
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 0}
+        - {x: -4, y: -2}
+        - {x: -8, y: -2}
+        - {x: -8, y: 4}
+        - {x: 8, y: 4}
+        - {x: 8, y: 0}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36bc504fb0f41f140b7fc117f374cea6
+      internalID: 281253507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mario Bros - Tilesets_14
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e6e638d79e1684e9980fcc107f9ff5
+      internalID: -1302633255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mario Bros - Tilesets_15
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 104
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -8}
+        - {x: -12, y: 0}
+        - {x: -6, y: 0}
+        - {x: -6, y: 1}
+        - {x: -5, y: 1}
+        - {x: -5, y: -7}
+        - {x: -6, y: -7.089775}
+        - {x: -6, y: -8}
+      - - {x: 2, y: -6}
+        - {x: 2, y: -5}
+        - {x: -2, y: -5}
+        - {x: -2, y: -6}
+        - {x: -4, y: -6}
+        - {x: -4, y: 2}
+        - {x: -2, y: 2}
+        - {x: -2, y: 3}
+        - {x: 2, y: 3}
+        - {x: 2, y: 2}
+        - {x: 3, y: 2}
+        - {x: 3, y: -6}
+      - - {x: 6, y: -8}
+        - {x: 6, y: -7}
+        - {x: 4, y: -7}
+        - {x: 4, y: 1}
+        - {x: 6, y: 1}
+        - {x: 6, y: 0}
+        - {x: 11, y: 0}
+        - {x: 11, y: -8}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a22699904ad0d4eacbcce22f6e4811
+      internalID: -2145885792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mario Bros - Tilesets_16
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 104
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -7}
+        - {x: -8, y: -8}
+        - {x: -12, y: -8}
+        - {x: -12, y: 0}
+        - {x: -8, y: 0}
+        - {x: -8, y: 1}
+        - {x: -6, y: 1}
+        - {x: -6, y: 2}
+        - {x: -5, y: 2}
+        - {x: -5, y: -6}
+        - {x: -6, y: -6}
+        - {x: -6, y: -7}
+      - - {x: 2, y: -4}
+        - {x: 2, y: -3}
+        - {x: -2, y: -3}
+        - {x: -1.9315796, y: -4}
+        - {x: -4, y: -4}
+        - {x: -4, y: 4}
+        - {x: -2.027748, y: 4}
+        - {x: -2, y: 5}
+        - {x: 2, y: 5}
+        - {x: 2, y: 4}
+        - {x: 3, y: 4}
+        - {x: 3, y: -4}
+      - - {x: -2, y: -2}
+        - {x: -2, y: 0}
+        - {x: -1, y: 0}
+        - {x: -1, y: 1}
+        - {x: 0, y: 1}
+        - {x: 0, y: 0}
+        - {x: 1, y: 0}
+        - {x: 1, y: -1}
+        - {x: 2, y: -1}
+        - {x: 2, y: -2}
+      - - {x: -3, y: -3}
+        - {x: -3, y: -2}
+        - {x: -2, y: -2}
+        - {x: -2, y: -3}
+      - - {x: -11, y: -7}
+        - {x: -11, y: -6}
+        - {x: -10, y: -6}
+        - {x: -10, y: -5}
+        - {x: -9, y: -5}
+        - {x: -9, y: -3}
+        - {x: -8, y: -3}
+        - {x: -8, y: -4.0193024}
+        - {x: -7, y: -4}
+        - {x: -7, y: -5}
+        - {x: -6, y: -5}
+        - {x: -6, y: -6}
+        - {x: -8, y: -6}
+        - {x: -8, y: -7}
+      - - {x: 8, y: -8}
+        - {x: 8, y: -7}
+        - {x: 6, y: -7}
+        - {x: 6, y: -6}
+        - {x: 5, y: -6}
+        - {x: 5, y: -5}
+        - {x: 4, y: -5}
+        - {x: 4, y: 3}
+        - {x: 5, y: 3}
+        - {x: 5, y: 2}
+        - {x: 6, y: 2}
+        - {x: 6, y: 1}
+        - {x: 8, y: 1}
+        - {x: 8, y: 0}
+        - {x: 11, y: 0}
+        - {x: 11, y: -8}
+      - - {x: 6, y: -6}
+        - {x: 6, y: -5}
+        - {x: 5, y: -5}
+        - {x: 5, y: -4}
+        - {x: 7, y: -4}
+        - {x: 7, y: -3}
+        - {x: 8, y: -3}
+        - {x: 8, y: -4}
+        - {x: 8, y: -5}
+        - {x: 9, y: -5}
+        - {x: 9, y: -6}
+        - {x: 10, y: -6}
+        - {x: 10, y: -7}
+        - {x: 8, y: -7}
+        - {x: 8, y: -6}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a44893b6f457c014faf7856d1389553e
+      internalID: 1353811839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mario Bros - Tilesets_17
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 104
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -4}
+        - {x: -7, y: -5}
+        - {x: -8, y: -5}
+        - {x: -8, y: -6}
+        - {x: -10, y: -6}
+        - {x: -10, y: -7}
+        - {x: -12, y: -7}
+        - {x: -12, y: 1}
+        - {x: -10, y: 1}
+        - {x: -10, y: 2}
+        - {x: -8, y: 2}
+        - {x: -8, y: 3}
+        - {x: -7, y: 3}
+        - {x: -7, y: 4}
+        - {x: -6, y: 4}
+        - {x: -6, y: 5}
+        - {x: -5, y: 5}
+        - {x: -5, y: -3}
+        - {x: -6, y: -3}
+        - {x: -6, y: -4}
+      - - {x: 2, y: -2}
+        - {x: 2, y: -1}
+        - {x: -1.9740295, y: -1.0000076}
+        - {x: -2, y: -2}
+        - {x: -4, y: -2}
+        - {x: -4, y: 6}
+        - {x: -1.9315872, y: 6}
+        - {x: -2, y: 7}
+        - {x: 2, y: 7}
+        - {x: 2, y: 6}
+        - {x: 3, y: 6}
+        - {x: 3, y: -2}
+      - - {x: 4, y: -3}
+        - {x: 4, y: 5}
+        - {x: 6, y: 5}
+        - {x: 6, y: 4.008774}
+        - {x: 7, y: 4}
+        - {x: 7, y: 3}
+        - {x: 8, y: 3}
+        - {x: 8, y: 2}
+        - {x: 10, y: 2}
+        - {x: 10, y: 1}
+        - {x: 11, y: 1}
+        - {x: 11, y: -7}
+        - {x: 10, y: -7}
+        - {x: 10, y: -6}
+        - {x: 8, y: -6}
+        - {x: 8, y: -5}
+        - {x: 7, y: -5}
+        - {x: 7, y: -4}
+        - {x: 6, y: -4}
+        - {x: 6, y: -3}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f87c88aa008cde4abc1141195d544b1
+      internalID: -880651105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mario Bros - Tilesets_18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: -4}
+        - {x: -4, y: 4}
+        - {x: -1, y: 4}
+        - {x: -1, y: 1}
+        - {x: 0, y: 1}
+        - {x: 0, y: 4}
+        - {x: 3, y: 4}
+        - {x: 3, y: 1}
+        - {x: 4, y: 1}
+        - {x: 4, y: -1}
+        - {x: 2.9806976, y: -1.0000076}
+        - {x: 3, y: -4}
+        - {x: 0, y: -4}
+        - {x: 0, y: -1}
+        - {x: -1, y: -0.9371338}
+        - {x: -1, y: -4}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 211e22bddc729c54fb85aad6dc9a26c1
+      internalID: -1498225863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mario Bros - Tilesets_19
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 104
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -8}
+        - {x: -12, y: 0}
+        - {x: -9, y: 0}
+        - {x: -9, y: -3.048195}
+        - {x: -8, y: -3}
+        - {x: -8, y: 1}
+        - {x: -5, y: 1}
+        - {x: -5, y: -2}
+        - {x: -4, y: -2}
+        - {x: -4, y: 2}
+        - {x: -1, y: 2}
+        - {x: -1, y: -1}
+        - {x: 0, y: -1}
+        - {x: 0, y: 2}
+        - {x: 3, y: 2}
+        - {x: 3, y: -2}
+        - {x: 4, y: -2}
+        - {x: 4, y: 1}
+        - {x: 7, y: 1}
+        - {x: 7, y: -3}
+        - {x: 8, y: -3}
+        - {x: 8, y: 0}
+        - {x: 11, y: 0}
+        - {x: 11, y: -3}
+        - {x: 12, y: -3}
+        - {x: 12, y: -5}
+        - {x: 11, y: -5}
+        - {x: 11, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: -5}
+        - {x: 7, y: -5}
+        - {x: 7, y: -7}
+        - {x: 4, y: -7}
+        - {x: 4, y: -4}
+        - {x: 3, y: -4}
+        - {x: 3, y: -6}
+        - {x: 0, y: -6}
+        - {x: 0, y: -3}
+        - {x: -1, y: -3}
+        - {x: -1, y: -6}
+        - {x: -4, y: -6}
+        - {x: -4, y: -4}
+        - {x: -5, y: -4}
+        - {x: -5, y: -7}
+        - {x: -8, y: -7}
+        - {x: -8, y: -5}
+        - {x: -9, y: -5}
+        - {x: -9, y: -8}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c711cf8534aa3bb41830121a05e1a69b
+      internalID: 1823344522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mario Bros - Tilesets_20
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 104
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -6}
+        - {x: -8, y: -5}
+        - {x: -9, y: -5}
+        - {x: -9, y: -8}
+        - {x: -12, y: -8}
+        - {x: -12, y: 0}
+        - {x: -9, y: 0}
+        - {x: -9, y: -3}
+        - {x: -8, y: -3}
+        - {x: -8, y: 2}
+        - {x: -5, y: 2}
+        - {x: -5, y: -0.038612366}
+        - {x: -4, y: 0}
+        - {x: -4, y: 5}
+        - {x: -1, y: 5}
+        - {x: -1, y: 2}
+        - {x: 0, y: 2}
+        - {x: 0, y: 5}
+        - {x: 3, y: 5}
+        - {x: 3, y: 0}
+        - {x: 4, y: 0}
+        - {x: 4, y: 2}
+        - {x: 7, y: 2}
+        - {x: 7, y: -3}
+        - {x: 8, y: -3}
+        - {x: 8, y: 0}
+        - {x: 11, y: 0}
+        - {x: 11, y: -3}
+        - {x: 12, y: -3}
+        - {x: 12, y: -5}
+        - {x: 11, y: -5}
+        - {x: 11, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: -5}
+        - {x: 7, y: -5}
+        - {x: 7, y: -6}
+        - {x: 4, y: -6}
+        - {x: 4, y: -2}
+        - {x: 3, y: -2}
+        - {x: 3, y: -3}
+        - {x: 0, y: -3}
+        - {x: 0, y: 0}
+        - {x: -1, y: 0}
+        - {x: -1, y: -3}
+        - {x: -4, y: -3}
+        - {x: -4, y: -2}
+        - {x: -5, y: -2}
+        - {x: -5, y: -6}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f68c9cfdd5b84d498fc73d060cf63b5
+      internalID: 649069434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mario Bros - Tilesets_21
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 104
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -4}
+        - {x: -8, y: -3}
+        - {x: -9, y: -3}
+        - {x: -9, y: -6}
+        - {x: -12, y: -6}
+        - {x: -12, y: 2}
+        - {x: -9, y: 2}
+        - {x: -9, y: -1}
+        - {x: -7.9999695, y: -0.9518051}
+        - {x: -8, y: 4}
+        - {x: -5, y: 4}
+        - {x: -5, y: 2}
+        - {x: -4, y: 2}
+        - {x: -4, y: 7}
+        - {x: -1, y: 7}
+        - {x: -1, y: 4}
+        - {x: 0, y: 4}
+        - {x: 0, y: 7}
+        - {x: 3, y: 7}
+        - {x: 3, y: 2}
+        - {x: 4, y: 2}
+        - {x: 4, y: 4}
+        - {x: 7, y: 4}
+        - {x: 7, y: -1}
+        - {x: 8, y: -1}
+        - {x: 8, y: 2}
+        - {x: 11, y: 2}
+        - {x: 11, y: -3}
+        - {x: 12, y: -3}
+        - {x: 12, y: -5}
+        - {x: 11, y: -5}
+        - {x: 11, y: -6}
+        - {x: 8, y: -6}
+        - {x: 8, y: -3}
+        - {x: 7, y: -2.9870148}
+        - {x: 7, y: -4}
+        - {x: 4, y: -4}
+        - {x: 4, y: 0}
+        - {x: 3, y: 0}
+        - {x: 3, y: -1}
+        - {x: 0, y: -1}
+        - {x: 0, y: 2}
+        - {x: -1, y: 2}
+        - {x: -1, y: -1}
+        - {x: -4, y: -1}
+        - {x: -4, y: 0}
+        - {x: -5, y: 0}
+        - {x: -5, y: -4}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0020138a9d2c464f8671e4b26efc256
+      internalID: 2000891561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mario Bros - Tilesets_22
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b02c5226d3923a47b194fdcdad59968
+      internalID: -1320644514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mario Bros - Tilesets_23
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d5cc08ac04ba9409c786cee60400ae
+      internalID: 178761271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mario Bros - Tilesets_24
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58088b1b6814c6840b12a87d6d64fbf2
+      internalID: -1508252039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mario Bros - Tilesets_25
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261f0ead63447de42b30213f50ec540f
+      internalID: -1299416557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mario Bros - Tilesets_26
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73bd55c218f67a94981c4128b19e43bc
+      internalID: 437507796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mario Bros - Tilesets_27
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 56
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -8}
+        - {x: -12, y: 0}
+        - {x: -6, y: 0}
+        - {x: -6, y: 1}
+        - {x: -4, y: 1}
+        - {x: -4, y: 2}
+        - {x: -2, y: 2}
+        - {x: -2, y: 3}
+        - {x: 2, y: 3}
+        - {x: 2, y: 2}
+        - {x: 4, y: 2}
+        - {x: 4, y: 1}
+        - {x: 6, y: 1}
+        - {x: 6, y: 0}
+        - {x: 12, y: 0}
+        - {x: 12, y: -8}
+        - {x: 6, y: -8}
+        - {x: 6, y: -7}
+        - {x: 4, y: -7}
+        - {x: 4, y: -6}
+        - {x: 2, y: -6}
+        - {x: 2, y: -5}
+        - {x: -2, y: -5}
+        - {x: -2, y: -6}
+        - {x: -4, y: -6}
+        - {x: -4, y: -7}
+        - {x: -6, y: -7}
+        - {x: -6, y: -8}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d54f2c0ed18ba4a9cbb9ca296365d8
+      internalID: -1998416598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mario Bros - Tilesets_28
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 56
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -7}
+        - {x: -8, y: -8}
+        - {x: -12, y: -8}
+        - {x: -12, y: 0}
+        - {x: -8, y: 0}
+        - {x: -8, y: 1}
+        - {x: -6, y: 1}
+        - {x: -6, y: 2}
+        - {x: -5, y: 2}
+        - {x: -5, y: 3}
+        - {x: -4, y: 3}
+        - {x: -4, y: 4}
+        - {x: -2, y: 4}
+        - {x: -2, y: 5}
+        - {x: 2, y: 5}
+        - {x: 2, y: 4}
+        - {x: 4, y: 4}
+        - {x: 4, y: 3}
+        - {x: 5, y: 3}
+        - {x: 5, y: 2}
+        - {x: 6, y: 2}
+        - {x: 6, y: 1}
+        - {x: 8, y: 1}
+        - {x: 8, y: 0}
+        - {x: 12, y: 0}
+        - {x: 12, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: -7}
+        - {x: 6, y: -7}
+        - {x: 6, y: -6}
+        - {x: 5, y: -6}
+        - {x: 5, y: -5}
+        - {x: 4, y: -5}
+        - {x: 4, y: -4}
+        - {x: 2, y: -4}
+        - {x: 2, y: -3}
+        - {x: -2, y: -3}
+        - {x: -2, y: -4}
+        - {x: -4, y: -4}
+        - {x: -4, y: -5}
+        - {x: -5, y: -5}
+        - {x: -5, y: -6}
+        - {x: -6, y: -6}
+        - {x: -6, y: -7}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a294f6c1f6183b4d9e42e343dc4f3d5
+      internalID: -1024752594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mario Bros - Tilesets_29
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 56
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.059998, y: -6}
+        - {x: -10, y: -7}
+        - {x: -12, y: -7}
+        - {x: -12, y: 1}
+        - {x: -10, y: 1}
+        - {x: -10, y: 2}
+        - {x: -8, y: 2}
+        - {x: -8, y: 3}
+        - {x: -7, y: 3}
+        - {x: -7, y: 4}
+        - {x: -6, y: 4}
+        - {x: -6, y: 5}
+        - {x: -4, y: 5}
+        - {x: -4, y: 6}
+        - {x: -2, y: 6}
+        - {x: -2, y: 7}
+        - {x: 2, y: 7}
+        - {x: 2, y: 6}
+        - {x: 4, y: 6}
+        - {x: 4, y: 5}
+        - {x: 6, y: 5}
+        - {x: 6, y: 4}
+        - {x: 7, y: 4}
+        - {x: 7, y: 3}
+        - {x: 8, y: 3}
+        - {x: 8, y: 2}
+        - {x: 10, y: 2}
+        - {x: 10, y: 1}
+        - {x: 12, y: 1}
+        - {x: 12, y: -7}
+        - {x: 10, y: -7}
+        - {x: 10, y: -6}
+        - {x: 8, y: -6}
+        - {x: 8, y: -5}
+        - {x: 7, y: -5}
+        - {x: 7, y: -4}
+        - {x: 6, y: -4}
+        - {x: 6.0386047, y: -3}
+        - {x: 4, y: -3}
+        - {x: 4, y: -2}
+        - {x: 2, y: -2}
+        - {x: 2, y: -1}
+        - {x: -2, y: -1}
+        - {x: -2, y: -2}
+        - {x: -4, y: -2}
+        - {x: -4, y: -3}
+        - {x: -6, y: -3}
+        - {x: -6, y: -4}
+        - {x: -7, y: -4}
+        - {x: -7, y: -5}
+        - {x: -8, y: -5.059437}
+        - {x: -8, y: -6}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad95c464c477ab48a71db58323fd052
+      internalID: -1610253009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mario Bros - Tilesets_30
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47324d66ca485d84ba7fb8375f4a4b3f
+      internalID: 1112087122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mario Bros - Tilesets_31
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 56
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: -5}
+        - {x: -4, y: -7}
+        - {x: -12, y: -7}
+        - {x: -12, y: 1}
+        - {x: -4, y: 0.96138763}
+        - {x: -4, y: 3}
+        - {x: 4, y: 3}
+        - {x: 4, y: 0.96139526}
+        - {x: 12, y: 1}
+        - {x: 12, y: -7}
+        - {x: 4, y: -7}
+        - {x: 4, y: -5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a733bd71d76bd6643b1358928a8245e5
+      internalID: -2113313832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mario Bros - Tilesets_32
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 56
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: -3}
+        - {x: -4, y: -6}
+        - {x: -12, y: -6}
+        - {x: -12, y: 2}
+        - {x: -4.0000153, y: 1.9518051}
+        - {x: -4, y: 5}
+        - {x: 4, y: 5}
+        - {x: 4, y: 2.0683365}
+        - {x: 12, y: 2}
+        - {x: 12, y: -6}
+        - {x: 4, y: -6}
+        - {x: 4, y: -3}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc0729fab8b7e546ab1726d41080ad0
+      internalID: -617627510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mario Bros - Tilesets_33
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 56
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: -1}
+        - {x: -4, y: -5}
+        - {x: -12, y: -5}
+        - {x: -12, y: 3}
+        - {x: -4, y: 3}
+        - {x: -4, y: 7}
+        - {x: 4, y: 7}
+        - {x: 4, y: 3.1199799}
+        - {x: 12, y: 3}
+        - {x: 12, y: -5}
+        - {x: 4, y: -5}
+        - {x: 4, y: -1}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbdbeb298bb9ca042824d058a48b8e59
+      internalID: 220023311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mario Bros - Tilesets_34
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 176
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -7}
+        - {x: 0, y: 4}
+        - {x: 1, y: 4}
+        - {x: 1, y: -7}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f72292adafaaa4fbe6ee83a92528b7
+      internalID: 291265830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mario Bros - Tilesets_35
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 176
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: -6}
+        - {x: 1, y: -7}
+        - {x: -1, y: -7}
+        - {x: -1, y: -6}
+        - {x: -2, y: -6}
+        - {x: -2, y: 3}
+        - {x: -1, y: 3}
+        - {x: -1, y: 4}
+        - {x: 1, y: 4}
+        - {x: 1, y: 3}
+        - {x: 2, y: 3}
+        - {x: 2, y: -6}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ef6166001290e4e98ebaddff090a24
+      internalID: 2120743972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mario Bros - Tilesets_36
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 176
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -7}
+        - {x: -2, y: -6}
+        - {x: -3, y: -6}
+        - {x: -3, y: -4}
+        - {x: -4, y: -4}
+        - {x: -4, y: 2}
+        - {x: -3, y: 2}
+        - {x: -3, y: 3}
+        - {x: -2, y: 3}
+        - {x: -2, y: 4}
+        - {x: 2, y: 4}
+        - {x: 2, y: 3}
+        - {x: 3, y: 3}
+        - {x: 3, y: 2}
+        - {x: 4, y: 2}
+        - {x: 4, y: -4}
+        - {x: 3, y: -4}
+        - {x: 3, y: -6}
+        - {x: 2, y: -6}
+        - {x: 2, y: -7}
+      - - {x: 4, y: 2}
+        - {x: 4, y: 2}
+        - {x: 4, y: 2}
+        - {x: 4, y: 2}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e1089ca2e4fa2a46a9b8715977869b8
+      internalID: -294180574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mario Bros - Tilesets_37
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 176
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -7}
+        - {x: -2, y: -6}
+        - {x: -3, y: -6}
+        - {x: -3, y: -4}
+        - {x: -4, y: -4}
+        - {x: -4, y: 2}
+        - {x: -3, y: 2}
+        - {x: -3, y: 3}
+        - {x: -2, y: 3}
+        - {x: -2, y: 4}
+        - {x: 2, y: 4}
+        - {x: 2, y: 3}
+        - {x: 3, y: 3}
+        - {x: 3, y: 1}
+        - {x: 4, y: 1}
+        - {x: 4, y: -4}
+        - {x: 3, y: -4}
+        - {x: 3, y: -6}
+        - {x: 2, y: -6}
+        - {x: 2, y: -7}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88282399c3d4dc247970d5f5f3317e7c
+      internalID: -832415352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mario Bros - Tilesets_38
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 176
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: -6}
+        - {x: 2, y: -7}
+        - {x: 0, y: -7}
+        - {x: -0.033355713, y: -6}
+        - {x: -1, y: -6}
+        - {x: -1, y: 3}
+        - {x: 0, y: 3}
+        - {x: 0, y: 4}
+        - {x: 2, y: 4}
+        - {x: 2.029602, y: 3}
+        - {x: 3, y: 3}
+        - {x: 3, y: -6}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8840dc1be298c834d80982573ee7db7c
+      internalID: 1023772612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mario Bros - Tilesets_39
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 152
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: -4}
+        - {x: -1, y: 5}
+        - {x: 0, y: 5}
+        - {x: 0, y: -4}
+      - - {x: 1, y: -4}
+        - {x: 1, y: 5}
+        - {x: 2, y: 5}
+        - {x: 2, y: -4}
+      - - {x: -2, y: 3}
+        - {x: -2, y: 4}
+        - {x: 3, y: 4}
+        - {x: 3, y: 3}
+      - - {x: -3, y: 1}
+        - {x: -3, y: 3}
+        - {x: -2, y: 3}
+        - {x: -2, y: 1}
+      - - {x: -2, y: 0}
+        - {x: -2, y: 1}
+        - {x: 3, y: 1}
+        - {x: 3, y: 0}
+      - - {x: 3, y: 2}
+        - {x: 3, y: 3}
+        - {x: 4, y: 3}
+        - {x: 4, y: 2}
+      - - {x: 3, y: -2}
+        - {x: 3, y: 0}
+        - {x: 4, y: 0}
+        - {x: 4, y: -2}
+      - - {x: -2, y: -3}
+        - {x: -2, y: -2}
+        - {x: 3, y: -2}
+        - {x: 3, y: -3}
+      - - {x: -3, y: -2}
+        - {x: -3, y: -1}
+        - {x: -2, y: -1}
+        - {x: -2, y: -2}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 456c8300c737dd145b1a15d2d17d8cd0
+      internalID: 1835180564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mario Bros - Tilesets_40
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: -3}
+        - {x: -1, y: -2}
+        - {x: -2, y: -2}
+        - {x: -2, y: -1}
+        - {x: -3, y: -1}
+        - {x: -3, y: 0}
+        - {x: -4, y: 0}
+        - {x: -4, y: 1}
+        - {x: -3, y: 1}
+        - {x: -3, y: 2}
+        - {x: -2, y: 2}
+        - {x: -2, y: 3}
+        - {x: -1, y: 3}
+        - {x: -1, y: 4}
+        - {x: 0, y: 4}
+        - {x: 0, y: 3}
+        - {x: 1, y: 3}
+        - {x: 1, y: 2}
+        - {x: 2, y: 2}
+        - {x: 2, y: 1}
+        - {x: 3, y: 1}
+        - {x: 3, y: 0}
+        - {x: 2, y: 0}
+        - {x: 2, y: -1}
+        - {x: 1, y: -1}
+        - {x: 1, y: -2}
+        - {x: 0, y: -1.9839172}
+        - {x: 0, y: -3}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 416ff1314763deb448f36a7427c1b214
+      internalID: -503362602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mario Bros - Tilesets_41
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 160
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -3}
+        - {x: -2, y: -2}
+        - {x: -3, y: -2}
+        - {x: -3, y: -1}
+        - {x: -4, y: -1}
+        - {x: -4, y: 2}
+        - {x: -3, y: 2}
+        - {x: -3, y: 3}
+        - {x: -2, y: 3.059433}
+        - {x: -2, y: 4}
+        - {x: 1, y: 4}
+        - {x: 1, y: 3}
+        - {x: 2, y: 3}
+        - {x: 2, y: 2}
+        - {x: 3, y: 2}
+        - {x: 3, y: -1}
+        - {x: 2, y: -1}
+        - {x: 2, y: -2}
+        - {x: 1, y: -2}
+        - {x: 1, y: -3}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f92f56301e45d42adbe2fbaa072409
+      internalID: 1832603988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mario Bros - Tilesets_42
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 161
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -1.5}
+        - {x: 0, y: -3.5}
+        - {x: -1, y: -3.5}
+        - {x: -0.98703, y: -1.5}
+        - {x: -2, y: -1.5}
+        - {x: -2, y: -0.5}
+        - {x: -4, y: -0.5}
+        - {x: -4, y: 0.5}
+        - {x: -2, y: 0.5}
+        - {x: -2, y: 1.5}
+        - {x: -1.029602, y: 1.5}
+        - {x: -1, y: 3.5}
+        - {x: 0, y: 3.5}
+        - {x: 0, y: 1.5}
+        - {x: 1, y: 1.5}
+        - {x: 1, y: 0.52963257}
+        - {x: 3, y: 0.5}
+        - {x: 3, y: -0.5}
+        - {x: 1, y: -0.5}
+        - {x: 1, y: -1.5}
+      - - {x: 1, y: 1.5}
+        - {x: 1, y: 2.5}
+        - {x: 2, y: 2.5}
+        - {x: 2, y: 1.5}
+      - - {x: -3, y: 1.5}
+        - {x: -3, y: 2.5}
+        - {x: -2, y: 2.5}
+        - {x: -2, y: 1.5}
+      - - {x: -3, y: -2.5}
+        - {x: -3, y: -1.5}
+        - {x: -2, y: -1.5}
+        - {x: -2, y: -2.5}
+      - - {x: 1, y: -2.5}
+        - {x: 1, y: -1.5}
+        - {x: 2, y: -1.5}
+        - {x: 2, y: -2.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 255baaafc3f861d45891287da656f6f2
+      internalID: 1394780469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mario Bros - Tilesets_43
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 152
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: -1}
+        - {x: -1, y: 2}
+        - {x: 0, y: 2}
+        - {x: 0, y: -1}
+      - - {x: -2, y: 0}
+        - {x: -2, y: 1}
+        - {x: 1, y: 1}
+        - {x: 1, y: 0}
+      - - {x: 3, y: 4}
+        - {x: 3, y: 5}
+        - {x: 4, y: 5}
+        - {x: 4, y: 4}
+      - - {x: -1, y: 5}
+        - {x: -1, y: 6}
+        - {x: 0, y: 6}
+        - {x: 0, y: 5}
+      - - {x: -5, y: 4}
+        - {x: -5, y: 5}
+        - {x: -4, y: 5}
+        - {x: -4, y: 4}
+      - - {x: -6, y: 0}
+        - {x: -6, y: 1}
+        - {x: -5, y: 1}
+        - {x: -5, y: 0}
+      - - {x: -5, y: -4}
+        - {x: -5, y: -3}
+        - {x: -4, y: -3}
+        - {x: -4, y: -4}
+      - - {x: -1, y: -5}
+        - {x: -1, y: -4}
+        - {x: 0, y: -4}
+        - {x: 0, y: -5}
+      - - {x: 3, y: -4}
+        - {x: 3, y: -3}
+        - {x: 4, y: -3}
+        - {x: 4, y: -4}
+      - - {x: 4, y: 0}
+        - {x: 4, y: 1}
+        - {x: 5, y: 1}
+        - {x: 5, y: 0}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa79479c54f7534185b0e0fdf284ca6
+      internalID: 482481194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mario Bros - Tilesets_44
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 200
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 5}
+        - {x: -8, y: 8}
+        - {x: -5, y: 8}
+        - {x: -5, y: 5}
+      - - {x: -4, y: 5}
+        - {x: -4, y: 8}
+        - {x: 3, y: 8}
+        - {x: 3, y: 5}
+      - - {x: 4, y: 5}
+        - {x: 4, y: 8}
+        - {x: 8, y: 8}
+        - {x: 8, y: 5}
+      - - {x: 0, y: 1}
+        - {x: 0, y: 4}
+        - {x: 7, y: 4}
+        - {x: 7, y: 1}
+      - - {x: -8, y: 1}
+        - {x: -8, y: 4}
+        - {x: -1, y: 4}
+        - {x: -1, y: 1}
+      - - {x: -8, y: -3}
+        - {x: -8, y: 0}
+        - {x: -5, y: 0}
+        - {x: -5, y: -3}
+      - - {x: -4, y: -3}
+        - {x: -4, y: 0}
+        - {x: 3, y: 0}
+        - {x: 3, y: -3}
+      - - {x: 4, y: -3}
+        - {x: 4, y: 0}
+        - {x: 8, y: 0}
+        - {x: 8, y: -3}
+      - - {x: 0, y: -7}
+        - {x: 0, y: -4}
+        - {x: 7, y: -4}
+        - {x: 7, y: -7}
+      - - {x: -8, y: -7}
+        - {x: -8, y: -4}
+        - {x: -1, y: -4}
+        - {x: -1, y: -7}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5fbd439a17dfb148892f88020f6ad62
+      internalID: -301947422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mario Bros - Tilesets_45
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 200
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be43d444673f2ea4793f8d9d212abaad
+      internalID: -908433608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      NES - Mario Bros - Tilesets_0: -823170
+      NES - Mario Bros - Tilesets_1: 869494636
+      NES - Mario Bros - Tilesets_10: -329554168
+      NES - Mario Bros - Tilesets_11: 2102248795
+      NES - Mario Bros - Tilesets_12: -1603471334
+      NES - Mario Bros - Tilesets_13: 281253507
+      NES - Mario Bros - Tilesets_14: -1302633255
+      NES - Mario Bros - Tilesets_15: -2145885792
+      NES - Mario Bros - Tilesets_16: 1353811839
+      NES - Mario Bros - Tilesets_17: -880651105
+      NES - Mario Bros - Tilesets_18: 891535869
+      NES - Mario Bros - Tilesets_19: -1498225863
+      NES - Mario Bros - Tilesets_2: 1066654639
+      NES - Mario Bros - Tilesets_20: 1823344522
+      NES - Mario Bros - Tilesets_21: 649069434
+      NES - Mario Bros - Tilesets_22: 2000891561
+      NES - Mario Bros - Tilesets_23: -1320644514
+      NES - Mario Bros - Tilesets_24: 178761271
+      NES - Mario Bros - Tilesets_25: -1508252039
+      NES - Mario Bros - Tilesets_26: -1299416557
+      NES - Mario Bros - Tilesets_27: 437507796
+      NES - Mario Bros - Tilesets_28: -1998416598
+      NES - Mario Bros - Tilesets_29: -1024752594
+      NES - Mario Bros - Tilesets_3: 1795853345
+      NES - Mario Bros - Tilesets_30: -1610253009
+      NES - Mario Bros - Tilesets_31: 1112087122
+      NES - Mario Bros - Tilesets_32: -2113313832
+      NES - Mario Bros - Tilesets_33: -617627510
+      NES - Mario Bros - Tilesets_34: 220023311
+      NES - Mario Bros - Tilesets_35: 291265830
+      NES - Mario Bros - Tilesets_36: 2120743972
+      NES - Mario Bros - Tilesets_37: -294180574
+      NES - Mario Bros - Tilesets_38: -832415352
+      NES - Mario Bros - Tilesets_39: 1835180564
+      NES - Mario Bros - Tilesets_4: 437886825
+      NES - Mario Bros - Tilesets_40: -503362602
+      NES - Mario Bros - Tilesets_41: 1832603988
+      NES - Mario Bros - Tilesets_42: 1394780469
+      NES - Mario Bros - Tilesets_43: 482481194
+      NES - Mario Bros - Tilesets_44: -301947422
+      NES - Mario Bros - Tilesets_45: -908433608
+      NES - Mario Bros - Tilesets_5: 813980550
+      NES - Mario Bros - Tilesets_6: 655659379
+      NES - Mario Bros - Tilesets_7: -113511939
+      NES - Mario Bros - Tilesets_8: 1591480300
+      NES - Mario Bros - Tilesets_9: 1426093973
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
